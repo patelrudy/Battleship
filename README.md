@@ -27,10 +27,6 @@ This is a console-based implementation of the Battleship game in Java. The game 
 
 The game uses a 5x5 grid represented by a two-dimensional character array. The `printBattleShip` method is responsible for displaying the game boards. The `mainAlgorithm` method contains the main game loop, where players take turns attacking and checking for win conditions. The game logic includes input validation to ensure the coordinates entered by the players are valid and do not overlap with existing ships.
 
-## Disclaimer
-
-This implementation was completed individually, using only course materials, as a homework assignment.
-
 ## Usage
 
 To play the Battleship game, follow these steps:
